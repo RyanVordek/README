@@ -43,7 +43,7 @@
 - ✔️ Linguagens: C/C+, Python.
 - 💵 Gostou do meu trabalho? [Paypal](https://www.paypal.com/donate/?business=ryanvordek@gmail.com&currency_code=BRL)
 <br>
-<a href="mailto: raphaelfox583@gmail.com" target="_blank">
+<a href="mailto: ryanvordek@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://t.me/RyanVordek" target="_blank">
